@@ -12,7 +12,7 @@ def largest(no1, no2, no3):
         largest_no = no2
     else:
         largest_no = no3
-    print("The largest of the 3 numbers is : ", largest_no)
+    print("The largest of the 3 numbers is", largest_no)
  
  
   # answer02
